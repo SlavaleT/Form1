@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0f573c0-b5ad-41da-9520-e39333afd03a": {
+      "ProjectGuid": "e0f573c0-b5ad-41da-9520-e39333afd03a",
+      "DisplayName": "Form1",
+      "ColorIndex": 0
+    },
+    "01cf5e2e-0657-469a-89c5-a3928699a61c": {
+      "ProjectGuid": "01cf5e2e-0657-469a-89c5-a3928699a61c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
